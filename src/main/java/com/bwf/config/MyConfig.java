@@ -10,6 +10,7 @@ import org.springframework.stereotype.Component;
 
 import com.bwf.entity.User;
 
+
 @Configuration
 public class MyConfig {
 
