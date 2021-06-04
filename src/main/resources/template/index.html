@@ -9,6 +9,22 @@
 thymeleaf index 
 <div th:text="${name}">数据</div>
 
+<table>
+
+<thead>
+<tr><th>编号</th><th>姓名</th></tr>
+</thead>
+
+<tbody>
+
+<tr th:each="user: ${userList}">
+<td th:text="${user.id}"></td><td th:text="${user.name}"></td>
+</tr>
+
+</tbody>
+
+</table>
+
 
 </body>
 </html>
