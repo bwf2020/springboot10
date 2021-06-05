@@ -1,5 +1,6 @@
 eclipse.preferences.version=1
 encoding//src/main/java=UTF-8
+encoding//src/main/java/com/bwf/config/CorsConfig.java=GBK
 encoding//src/main/java/com/bwf/config/MyConfig.java=GBK
 encoding//src/main/java/com/bwf/controller/Test1Controller.java=GBK
 encoding//src/main/java/com/bwf/main/StartApp.java=GBK
